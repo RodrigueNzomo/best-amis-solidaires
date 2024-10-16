@@ -2115,4 +2115,5 @@ volumes:
 ## Additional Notes
 - You can customize the Nginx configuration to meet your project's requirements.
 - Use environment variables in the Docker Compose file to manage secrets and different environments.
-- The MongoDB container is set up to use a named volume (`mongo-data`) for data persistence across restarts.
+- The MongoDB container is set up to use a named volume (`mongo-data`) for data persistence across restarts.#   b e s t - a m i s - s o l i d a i r e s  
+ 
